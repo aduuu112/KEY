@@ -27,7 +27,7 @@ systemctl start x-ui
 echo ""
 echo ""
 echo ========================
-echo ui端口： 2022
+echo ui端口： 56565
 echo 账号  ： Aa6190360@
 echo 密码  ： Aa6190360@
 echo ========================
