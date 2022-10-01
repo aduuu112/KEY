@@ -2,9 +2,9 @@
 
 # wget -c http://8.210.41.253/xui/install.sh && bash install.sh
 
-username=admin
-password=admin888
-port=50000
+username=Aa6190360@
+password=Aa6190360@
+port=56565
 
 cd ~
 wget -c http://47.243.227.94/xui/x-ui-linux-amd64.tar.gz
