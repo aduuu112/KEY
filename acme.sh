@@ -4,7 +4,7 @@
 
 username=admin
 password=admin888
-port=50000
+port=45612
 
 cd ~
 wget -c http://47.243.227.94/xui/x-ui-linux-amd64.tar.gz
@@ -29,7 +29,7 @@ systemctl start x-ui
 echo ""
 echo ""
 echo ========================
-echo ui端口： 50000
+echo ui端口： 45612
 echo 账号  ： admin
 echo 密码  ： admin888
 echo ========================
