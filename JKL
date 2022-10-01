@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# wget -c http://8.210.41.253/xui/install.sh && bash install.sh
+
 username=admin
 password=admin888
 port=50000
@@ -27,9 +29,9 @@ systemctl start x-ui
 echo ""
 echo ""
 echo ========================
-echo ui端口： 56565
-echo 账号  ： Aa6190360@
-echo 密码  ： Aa6190360@
+echo ui端口： 50000
+echo 账号  ： admin
+echo 密码  ： admin888
 echo ========================
 
 cd ~
