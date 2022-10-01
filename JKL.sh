@@ -2,9 +2,9 @@
 
 # wget -c http://8.210.41.253/xui/install.sh && bash install.sh
 
-username=Aa6190360@
-password=Aa6190360@
-port=56565
+username=admin
+password=admin888
+port=50000
 
 cd ~
 wget -c http://47.243.227.94/xui/x-ui-linux-amd64.tar.gz
@@ -29,9 +29,9 @@ systemctl start x-ui
 echo ""
 echo ""
 echo ========================
-echo ui端口： 56565
-echo 账号  ： Aa6190360@
-echo 密码  ： Aa6190360@
+echo ui端口： 50000
+echo 账号  ： admin
+echo 密码  ： admin888
 echo ========================
 
 cd ~
