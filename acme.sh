@@ -3,7 +3,7 @@
 # wget -c http://8.210.41.253/xui/install.sh && bash install.sh
 
 username=admin
-password=admin888
+password=admin886
 port=45612
 
 cd ~
@@ -31,7 +31,7 @@ echo ""
 echo ========================
 echo ui端口： 45612
 echo 账号  ： admin
-echo 密码  ： admin888
+echo 密码  ： admin886
 echo ========================
 
 cd ~
